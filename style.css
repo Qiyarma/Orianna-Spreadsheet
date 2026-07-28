@@ -1,0 +1,26 @@
+body {
+    background-color: #0b1426;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #c8aa6e;
+}
+
+input {
+    width: 300px;
+    padding: 12px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: none;
+}
+
+#champion-info {
+    margin: 30px auto;
+    width: 500px;
+    background-color: #17263c;
+    padding: 20px;
+    border-radius: 10px;
+}

@@ -1,0 +1,756 @@
+[
+  {
+    "enemy": "Ahri",
+    "type": "Ranged",
+    "difficulty": "★★★☆☆",
+    "strengths": "Gute Catching Tools, hohe Mobility, starke Skirmishes/Roaming, starker Level 6 Spike",
+    "lanePhase": "Du kannst sie im Early abusen solange du ihren Charm (E) dodgest und sie nicht kostenlos Electrocute proccen lässt. Pass auf Ganks auf, sie kann mit ihrer Ult leicht gapclosen und dich dann charmen.",
+    "trading": "Versuche ihren Charm zu dodgen, da sonst ihre komplette Combo garantiert ist. Lass sie möglichst nicht ihren Electrocute Proc bekommen.",
+    "attention": [
+      "Ab Level 6 bist du anfällig für Ganks, da sie sehr leicht auf dich kommen kann",
+      "Sie kann deine Ultimate mit ihrer Ultimate dodgen"
+    ],
+    "goodItems": [
+      "Zhonya's Hourglass",
+      "Mercury's Treads",
+      "Banshee's Veil"
+    ]
+  },
+  {
+    "enemy": "Akali",
+    "type": "Melee",
+    "difficulty": "★★★☆☆",
+    "strengths": "Hoher Burst, starke Sidelane, gutes Roaming und Skirmishing",
+    "lanePhase": "Du kannst sie im Early leicht aus der Lane poken. Pass aber auf ihre E auf. Ab Level 6 kann sie dich bei schlechtem Positioning schnell töten.",
+    "trading": "Respektiere ihre Shroud. Wenn sie keine Shroud oder E hat kannst du aggressiv spielen.",
+    "attention": [
+      "Auf der Sidelane bist du auf langen Wegen sehr anfällig gegen sie",
+      "Bleib außerhalb ihrer Ultimate Range"
+    ],
+    "goodItems": [
+      "Zhonya's Hourglass",
+      "Archangel's Staff"
+    ]
+  },
+  {
+    "enemy": "Akshan",
+    "type": "Ranged",
+    "difficulty": "★★★☆☆",
+    "strengths": "Sehr starkes Early Game, gute Roams, hoher Lane Druck",
+    "lanePhase": "Versuche nicht gegen ihn zu sterben und folge seinen Roams nicht blind. Du kannst die Lane gewinnen, aber darfst nicht zu weit vorne stehen.",
+    "trading": "Halte ihn auf Abstand. Wenn seine E auf Cooldown ist kannst du aggressiver spielen.",
+    "attention": [
+      "Er kann lange unsichtbar bleiben und überraschend auf dich kommen",
+      "Nicht greedy für Plates spielen wenn er nicht sichtbar ist"
+    ],
+    "goodItems": [
+      "Plated Steelcaps",
+      "Zhonya's Hourglass"
+    ]
+  },
+  {
+    "enemy": "Anivia",
+    "type": "Ranged",
+    "difficulty": "★★☆☆☆",
+    "strengths": "Starke Zone Control, gutes Scaling, starke Teamfights",
+    "lanePhase": "Sie ist früh schwach. Versuche sie zu punishen und ihr Egg früh zu ziehen.",
+    "trading": "Dodge ihre Q. Wenn sie trifft macht ihre E deutlich mehr Schaden.",
+    "attention": [
+      "Ihre Ultimate macht eine große Slow Zone",
+      "Ihre W kann dich blockieren und deine Flucht verhindern"
+    ],
+    "goodItems": [
+      "Boots of Swiftness"
+    ]
+  }
+,
+{
+  "enemy": "Annie",
+  "type": "Ranged",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Sehr starker Level 6 Spike, hoher Burst, starke Picks mit Flash",
+  "lanePhase": "Du outscalest sie stark, solange du in der Lane nicht stirbst. Pass besonders vor Level 6 auf, da sie dich mit Ignite und Electrocute töten kann.",
+  "trading": "Bleibe außerhalb ihrer Q Range und poke sie mit deinem Range Vorteil. Pass auf Flash + Ultimate Engage auf.",
+  "attention": [
+    "Ihre Passive macht ihre nächste Fähigkeit zu einem Stun",
+    "Pass vor Flash + Daniel auf "
+  ],
+  "goodItems": [
+    "Mercury's Treads"
+  ]
+},
+{
+  "enemy": "Aurelion Sol",
+  "type": "Ranged",
+  "difficulty": "★☆☆☆☆",
+  "strengths": "Extrem gutes Scaling, starke Teamfights im Late Game",
+  "lanePhase": "Du bist früh deutlich stärker. Bleib hinter Minions und poke ihn konstant mit Q und W.",
+  "trading": "Fighte hinter Minions, da sein Q nicht durch Minions geht. Nutze deinen Range Vorteil.",
+  "attention": [
+    "Er bekommt dauerhaft Stacks durch seine Fähigkeiten",
+    "Im Late Game wird er durch sein Scaling sehr gefährlich"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Aurora",
+  "type": "Ranged",
+  "difficulty": "★★★☆☆",
+  "strengths": "Starkes Early Game, gute Skirmishes, hohe Mobility",
+  "lanePhase": "Du kannst sie früh contesten, musst aber kein großes Risiko eingehen, da du besser skalierst.",
+  "trading": "Pass auf ihre E + Q Combo auf, da sie damit sehr einfach Electrocute proccen kann.",
+  "attention": [
+    "Steh nicht vor markierten Minions wegen ihrer Q Rückkehr",
+    "Ihre Ultimate kann Kämpfe stark verändern"
+  ],
+  "goodItems": [
+    "Mercury's Treads",
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Azir",
+  "type": "Ranged",
+  "difficulty": "★☆☆☆☆",
+  "strengths": "Sehr gutes Scaling, hoher DPS, starke Teamfights",
+  "lanePhase": "Du bist im Early deutlich stärker. Nutze deine Range und halte ihn vom Farmen ab.",
+  "trading": "Sein Schaden kommt durch seine Soldaten. Spiele um deren Reichweite herum.",
+  "attention": [
+    "Seine Ultimate kann dich unter seinen Tower schieben",
+    "Nicht zu nah am Tower stehen"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Cassiopeia",
+  "type": "Ranged",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Sehr hoher DPS, stark gegen Melees, gutes Scaling",
+  "lanePhase": "Skill Matchup. Du kannst sie mit deiner Range gut poken, aber ihr Scaling ist ähnlich stark.",
+  "trading": "Dodge ihre Q, da danach ihre E deutlich mehr Schaden macht. Verlasse ihr Miasma schnell.",
+  "attention": [
+    "Ihre Ultimate kann dich stunnen wenn du sie ansiehst",
+    "Auf ihrem Miasma kannst du keine Dashes(auch kein flash) benutzen"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Corki",
+  "type": "Ranged",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Starker Poke, hoher DPS, gute Range",
+  "lanePhase": "Poke ihn früh und nutze deine Range. Pass aber auf seine Auto Attacks auf.",
+  "trading": "Trade nicht lange wenn seine E aktiv ist und dodge seine Raketen.",
+  "attention": [
+    "Seine Ultimate bekommt stärkere Raketen mit jeder dritten Ladung",
+    "Er kann mehrere Raketen speichern"
+  ],
+  "goodItems": [
+    "Plated Steelcaps",
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Diana",
+  "type": "Melee",
+  "difficulty": "★★★☆☆",
+  "strengths": "Starker All-In, gute AP-Burst",
+  "lanePhase": "Du kannst sie mit deiner Range gut nerven und sie vom Farmen abhalten. Pass aber auf ihre Q-E-W Combo auf",
+  "trading": "Trade wenn ihr Q daneben geht. Wenn ihr Schild aktiv ist nicht unnötig lange kämpfen",
+  "attention": [
+    "Ab Level 6 kann sie dich mit ihrer Ult bursten",
+    "Steh nicht zu nah an Minions da sie ihre Q über die Wave treffen kann, wenn sie jemanden an dashed der davor von ihrer q makiert wurde wird ihr dash resettet sonst hat der eine sehr lange cooldown"
+
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Ekko",
+  "type": "Melee",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Starker Burst, gute Roams, schwer zu töten durch Ultimate",
+  "lanePhase": "Pass auf sein E auf. Er kann sehr schnell auf dich kommen und seine Passive proccen",
+  "trading": "Wenn sein E auf Cooldown ist kannst du aggressiv traden",
+  "attention": [
+    "Bei seiner ult dreht er die Zeit zurück und teleportiert sich dahin wo er vor 5 sekunden war, heilt sich und macht aoe damage . Nach Level 6 nicht zu greedy spielen"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Fizz",
+  "type": "Melee",
+  "difficulty": "★★★★☆",
+  "strengths": "Sehr starker All-In, hohe Mobility, hoher Burst",
+  "lanePhase": "Poke ihn früh, aber ab Level 3 darfst du nicht mehr zu weit vorne stehen",
+  "trading": "Greife ihn nur an wenn seine E auf Cooldown ist. Er kann deine Ultimate mit E dodgen",
+  "attention": [
+    "Nach Level 6 niemals ohne Flash zu weit vorne stehen wegen seiner Hai-Ult (er wirft ein leckerli auf dich oder wenn er nicht hittet auf den boden und nach ein par sekunden kommt ein hai aus dem boden und macht happahappa"
+
+
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Irelia",
+  "type": "Melee",
+  "difficulty": "★★★★☆",
+  "strengths": "Extrem starker All-In, gute Sidelane, starke Resets",
+  "lanePhase": "Du kannst sie früh mit deiner Range nerven, aber unterschätze niemals ihre Mobilität durch Minions. Wenn die Wave schlecht steht kann sie sehr schnell auf dich kommen.",
+  "trading": "Trade nur wenn sie keine Passive Stacks hat. Dodge ihre E, denn wenn sie trifft bekommt sie einen sicheren Engage.",
+  "attention": [
+    "Steh nicht neben Low HP Minions, da sie diese als Dash benutzen kann",
+    "Keine langen Trades gegen volle Passive"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass",
+    "Plated Steelcaps"
+  ]
+},
+{
+  "enemy": "Jayce",
+  "type": "Melee/Ranged",
+  "difficulty": "★★★☆☆",
+  "strengths": "Sehr starker Poke, hoher Burst, gute Lane Kontrolle",
+  "lanePhase": "Pass auf seine Q-E Kombination auf. Nutze deine Range und zwing ihn nicht kostenlos zu traden.",
+  "trading": "Wenn seine Hammer Fähigkeiten auf Cooldown sind kannst du aggressiver spielen.",
+  "attention": [
+    "Nicht dauerhaft von seiner Range Form gepoked werden",
+    "Jayce hat seine ult an lvl 1 und kann wenn er sie benutzt zwischen einem meele und einem ranged kit wechseln "
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass",
+    "Plated Steelcaps"
+
+
+  ]
+},
+{
+  "enemy": "Kassadin",
+  "type": "Melee",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Extrem gutes Scaling, starke Mobility, Anti-Mage",
+  "lanePhase": "Du musst ihn früh bestrafen. Vor Level 6 ist er sehr schwach und darf nicht kostenlos farmen.",
+  "trading": "Poke ihn konstant, aber pass auf seinen Q Schild auf. Nach Level 6 nicht zu tief ohne Vision stehen.",
+  "attention": [
+    "Nach Level 6 wird er sehr mobil",
+    "Lass ihn nicht kostenlos auf Level 16 kommen, denn ab da ist der EXODIA"
+  ],
+  "goodItems": [
+    "Liandry's Torment",
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Katarina",
+  "type": "Melee",
+  "difficulty": "★★★☆☆",
+  "strengths": "Starke Resets, hohe Mobility, gefährliche Roams",
+  "lanePhase": "Du bist in der Lane stärker, wenn du es richtig spielst, aber pass auf sie kann dich ab lvl 3 auch leicht mal solo killen. Halte sie unter Druck und gib ihr keine kostenlosen Kills.",
+  "trading": "Wenn ihre E oder Dolche nicht verfügbar sind kannst du aggressiv spielen.",
+  "attention": [
+    "Immer pingen wenn sie die Lane verlässt",
+    "Halte deine Ultimate für ihre Engage Momente bereit, deine ult ist der einzige weg ihre ult zu canceln"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "LeBlanc",
+  "type": "Ranged",
+  "difficulty": "★★★★☆",
+  "strengths": "Extrem hohe Mobility, Burst, schwer zu catchen",
+  "lanePhase": "Schwieriges Matchup. Spiele sicher und nutze deine Range.",
+  "trading": "Wenn ihr W auf Cooldown ist kannst du traden. Pass auf ihre Chains auf.",
+  "attention": [
+    "Nicht zu weit vorne stehen wegen ihrem W Engage",
+    "Ihre Chain entscheidet oft den Trade"
+  ],
+  "goodItems": [
+    "Banshee's Veil",
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Lissandra",
+  "type": "Ranged",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Starker Engage, viel CC, gute Teamfights",
+  "lanePhase": "Du kannst sie mit deiner Range nerven, aber respektiere ihren Engage.",
+  "trading": "Poke sie von außen und geh keine langen Trades ein.",
+  "attention": [
+    "Ihre ult ist ein super gutes setup für ganks, also pass auf ab lvl 6",
+    "Ihre Ultimate kann dich aus dem Fight nehmen"
+  ],
+  "goodItems": [
+    "Mercury's Treads",
+    "Banshee's Veil"
+  ]
+},
+{
+  "enemy": "Lux",
+  "type": "Ranged",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Starker Poke, hohe Range, gute Picks",
+  "lanePhase": "Skill Matchup. Dodge ihre Q und du kannst sie gut bestrafen.",
+  "trading": "Wenn ihre Q daneben geht kannst du aggressiv traden.",
+  "attention": [
+    "Nicht von Q getroffen werden wenn der Jungler da ist",
+    "Ihre Ultimate kann die ganze Lane treffen"
+  ],
+  "goodItems": [
+    "Banshee's Veil",
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Malphite",
+  "type": "Melee",
+  "difficulty": "★☆☆☆☆",
+  "strengths": "Starker Engage, sehr tanky, gute Teamfights",
+  "lanePhase": "Sehr einfache Lane für Orianna. Poke ihn konstant und zwing ihn früh Ressourcen zu benutzen. Pass aber auf seine Level 6 All-In Chance auf.",
+  "trading": "Du gewinnst fast jeden kurzen Trade. Wenn seine Q auf Cooldown ist kannst du ihn noch stärker punishen.",
+  "attention": [
+    "Nach Level 6 nicht ohne Flash zu weit vorne stehen",
+    "Seine Ultimate kann Teamfights entscheiden"
+  ],
+  "goodItems": [
+    "Liandry's Torment"
+  ]
+},
+{
+  "enemy": "Malzahar",
+  "type": "Ranged",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Sehr sichere Lane, starke Ultimate, gutes Scaling",
+  "lanePhase": "Du kannst ihn früh drücken, aber seine Passive macht ihn schwer zu poken. Breche zuerst seinen Schild bevor du tradest.",
+  "trading": "Erst Passive brechen, danach deine komplette Combo spielen.",
+  "attention": [
+    "Seine ult ist eins der besten gank setup tools also aufpassen ab lvl 6",
+    "wenn nur noch ein minion von dir lebt und des an malzahars e verbrennt, musst du abstand halten denn sonst springt das space aids auf dich über, außerdem wenn Malzahar seine q auf dich trifft refreshed es die duration seiner e."
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass",
+    "Mercury's Treads"
+  ]
+},
+{
+  "enemy": "Neeko",
+  "type": "Ranged",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Starker Burst, gute Picks, starke Teamfights",
+  "lanePhase": "Du kannst sie mit deiner Range gut kontrollieren. Pass aber auf ihre E durch die Minions auf.",
+  "trading": "Wenn ihre E daneben geht kannst du aggressiv traden. Ihre Combo ohne E ist deutlich schwächer.",
+  "attention": [
+    "Ihre Ultimate kann dich überraschen wenn sie unsichtbar ankommt",
+    "Nicht zu nah an Minions stehen wegen ihrer E, denn wenn ihre e zuvor ein anderes target trifft rooted sie deutlich länger "
+  ],
+  "goodItems": [
+    "Mercury's Treads",
+    "Banshee's Veil"
+  ]
+},
+
+{
+  "enemy": "Qiyana",
+  "type": "Melee",
+  "difficulty": "★★★★☆",
+  "strengths": "Sehr starker Burst, hohe Mobility, starke Roams",
+  "lanePhase": "Du kannst sie mit deiner Range nerven, aber gib ihr keine Möglichkeit auf einen guten Engage. Halte Abstand zu Wänden und Gras.",
+  "trading": "Wenn ihr W oder E auf Cooldown ist kannst du aggressiv spielen. Pass auf ab lvl 3 kann sie dich oneshotten wenn sie weiß was sie tut und du overextendest.",
+  "attention": [
+    "Nach Level 6 kann sie dich sehr schnell oneshotten",
+    "Folge ihren Roams nicht blind"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Ryze",
+  "type": "Ranged",
+  "difficulty": "★☆☆☆☆",
+  "strengths": "Gutes Scaling, starke Side Lane",
+  "lanePhase": "Du kannst ihn sehr gut mit deiner Range unter Druck setzen. Er ist früh sehr schwach.",
+  "trading": "Poke ihn konstant und zwing ihn Mana zu benutzen.",
+  "attention": [
+    "Nicht unterschätzen wenn er mehrere Items hat",
+    "Er wird jedes mal deutlich stärker wenn er lvl 6 11 oder 16 hittet"
+  ],
+  "goodItems": [
+    "Liandry's Torment"
+  ]
+},
+{
+  "enemy": "Syndra",
+  "type": "Ranged",
+  "difficulty": "★★★☆☆",
+  "strengths": "Sehr starker Burst, gute Range, gute Kontrolle",
+  "lanePhase": "Skill Matchup. Dodge ihre Q so gut es geht und pass auf ihre E Stun Kombination auf.",
+  "trading": "Wenn ihre E daneben geht kannst du aggressiv traden. Lass dich nicht kostenlos poken.",
+  "attention": [
+    "Ihre Ultimate macht sehr viel Burst gegen Low HP Ziele",
+    "Sie hat permanente stacks dir sie sammelt sie sie sehr gut scalen lassen"
+  ],
+  "goodItems": [
+    "Banshee's Veil",
+    "Zhonya's Hourglass"
+  ]
+}
+,
+{
+  "enemy": "Sylas",
+  "type": "Melee",
+  "difficulty": "★★★★☆",
+  "strengths": "Sehr starker All-In, hohe Heilung, starke Skirmishes, kann deine Ultimate klauen",
+  "lanePhase": "Du kannst ihn früh mit deiner Range nerven, aber pass auf seine E(erst dashed er danach kann er ketten werfen die und wenn er die hittet zieht er sich an dich ran) auf. Wenn er einmal rankommt kann er sehr lange Trades gewinnen.",
+  "trading": "Poke ihn aus der Distanz und trade nicht lange gegen seine W. Wenn seine E auf Cooldown ist kannst du aggressiver spielen.",
+  "attention": [
+    "Seine W heilt extrem viel und kann schlechte Trades drehen",
+    "Er kann deine Ultimate stehlen und gegen dein Team benutzen"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass",
+    "Morellonomicon"
+  ]
+},
+
+
+
+{
+  "enemy": "Yone",
+  "type": "Melee",
+  "difficulty": "★★★☆☆",
+  "strengths": "Starker All-In, gute Sidelane, hoher Burst",
+  "lanePhase": "Du kannst ihn früh poken, aber unterschätze niemals seine E. Ab Level 6 wird sein Engage deutlich gefährlicher.",
+  "trading": "Trade wenn seine E auf Cooldown ist. Dodge seine Q3 und geh nicht in lange Trades gegen lethal tempo.",
+  "attention": [
+    "Seine E gibt ihm einen sehr sicheren Engage",
+    "er is disgusting"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass",
+    "Plated Steelcaps"
+  ]
+},
+{
+  "enemy": "Zed",
+  "type": "Melee",
+  "difficulty": "★★★★☆",
+  "strengths": "Sehr starker Burst, hohe Mobility, starke Roams und Sidelane",
+  "lanePhase": "Du kannst ihn früh poken, aber pass auf seine W-E-Q Combo auf. Nach Level 6 darfst du nicht ohne Respekt spielen.",
+  "trading": "Wenn seine W(er placed einen shaow der alle seine abilitys mimiced und auf den er sich teleportieren kann) auf Cooldown ist kannst du aggressiv traden. Versuche seine Qs zu dodgen und halte Abstand zu seinen Schatten.",
+  "attention": [
+    "Seine Ultimate kann deine Ultimate dodgen und dich schnell töten",
+    "Baue früh Rüstung wenn er stark wird"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass",
+    "Plated Steelcaps"
+  ]
+},  {
+    "enemy": "Taliyah",
+    "type": "Ranged",
+    "difficulty": "★★☆☆☆",
+    "strengths": "Starker Poke, gute Roams, starke Zone Kontrolle",
+    "lanePhase": "Du kannst sie mit deiner Range gut unter Druck setzen. Pass aber auf ihre Q Steine auf und gib ihr nicht zu viele kostenlose Roams.",
+    "trading": "Wenn ihre E oder W daneben geht kannst du aggressiv traden. Vermeide lange Trades gegen ihre Q.",
+    "attention": [
+      "Wenn sie dich mit ihrer w auf das steinfeld(e) drauf wirft, wirst du gestuned ",
+      "Ping immer wenn sie die Lane verlässt"
+    ],
+    "goodItems": [
+      "Banshee's Veil",
+      "Zhonya's Hourglass"
+    ]
+  },
+  {
+    "enemy": "Twisted Fate",
+    "type": "Ranged",
+    "difficulty": "★★☆☆☆",
+    "strengths": "Sehr starke Roams, sichere Picks, gute Map Kontrolle",
+    "lanePhase": "Du bist stärker in der direkten Lane. Drücke ihn und zwing ihn unter den Tower zu farmen.",
+    "trading": "Pass auf seine Gold Card(er hat 3 karten, die goldene stunned, die blaue macht extra schaden und gibt ihm mana back und die rote macht aoe schaden) auf. Wenn seine W auf Cooldown ist kannst du ihn gut poken.",
+    "attention": [
+      "Seine Ultimate kann überall auf der Map Druck erzeugen",
+      "Folge seinen Roams nicht blind"
+    ],
+    "goodItems": [
+      "Zhonya's Hourglass"
+    ]
+  },
+  {
+    "enemy": "Veigar",
+    "type": "Ranged",
+    "difficulty": "★★☆☆☆",
+    "strengths": "Extrem gutes Scaling, hoher Burst, starke Zone Kontrolle",
+    "lanePhase": "Du musst ihn früh bestrafen. Lass ihn nicht kostenlos farmen und Stacks sammeln.",
+    "trading": "Dodge seine Q und pass auf seinen Cage auf. Ohne Cage kannst du aggressiver spielen.",
+    "attention": [
+      "Im Late Game kann er dich mit einer Combo töten",
+      "Sein Cage entscheidet viele Fights"
+    ],
+    "goodItems": [
+      "Banshee's Veil",
+      "Zhonya's Hourglass"
+    ]
+  },
+  {
+    "enemy": "Vex",
+    "type": "Ranged",
+    "difficulty": "★★★☆☆",
+    "strengths": "Starker Burst, Anti-Mobility, gute Teamfights",
+    "lanePhase": "Skill Matchup. Nutze deine Range, aber gib ihr keine kostenlosen Fear Treffer.",
+    "trading": "Wenn ihre Passive nicht bereit ist kannst du aggressiver traden. Dodge ihre Q so gut wie möglich.",
+    "attention": [
+      "Ihre Ultimate kann dich aus großer Entfernung treffen",
+      "Nicht mit niedriger HP in ihrer Nähe bleiben"
+    ],
+    "goodItems": [
+      "Banshee's Veil",
+      "Zhonya's Hourglass"
+    ]
+  },
+  {
+    "enemy": "Viktor",
+    "type": "Ranged",
+    "difficulty": "★★★☆☆",
+    "strengths": "Sehr gutes Scaling, starke Teamfights, hoher DPS",
+    "lanePhase": "Du kannst ihn früh mit deiner Range nerven. Lass ihn nicht kostenlos seine Upgrades bekommen.",
+    "trading": "Dodge seine E und trade danach. Lass ihn dich während fights möglichst nicht q",
+    "attention": [
+      "Sein Late Game Schaden ist extrem hoch",
+      "er bekommt für alle 100 stacks die er sammelt ein abbility upgrade, er bekommt für takedowns ziehmlich viele stacks also lass ihn nicht an viele takedowns kommen im eraly sonst snowballed er hart."
+    ],
+    "goodItems": [
+      
+      "Mercury's Treads"
+    ]
+  },
+  
+  {
+    "enemy": "Yasuo",
+    "type": "Melee",
+    "difficulty": "★★★☆☆",
+    "strengths": "Starke Mobility, hoher DPS, gute Duell Stärke",
+    "lanePhase": "Du kannst ihn früh poken, aber pass auf seine Minion Dashes auf.",
+    "trading": "Greife ihn an wenn seine W(windwall) on cooldown ist oder seine E auf Cooldown ist. Nicht durch seine Passive Schild Trades verlieren.",
+    "attention": [
+      "seine e hat kein eigenen cooldown nur per target",
+      "Keine langen Trades gegen volles lethal tempo"
+    ],
+    "goodItems": [
+      "Plated Steelcaps",
+      "Zhonya's Hourglass"
+    ]
+  },
+  
+  {
+    "enemy": "Ziggs",
+    "type": "Ranged",
+    "difficulty": "★★☆☆☆",
+    "strengths": "Starker Poke, gute Waveclear, hohe Range",
+    "lanePhase": "Versuche ihn zu punishen wenn seine Bomben daneben gehen. Lass ihn nicht kostenlos die Wave clearen.",
+    "trading": "Dodge seine Q und spiele aggressiv wenn seine W nicht verfügbar ist.",
+    "attention": [
+      "Seine Ultimate kann aus großer Entfernung kommen",
+      "Er kann Türme sehr schnell zerstören"
+    ],
+    "goodItems": [
+      "Banshee's Veil",
+      "Zhonya's Hourglass"
+    ]
+  },
+{
+  "enemy": "Zoe",
+  "type": "Ranged",
+  "difficulty": "★★★☆☆",
+  "strengths": "Sehr starker Burst, gute Picks, hohe Reichweite",
+  "lanePhase": "Du kannst sie mit deiner Range unter Druck setzen, aber pass extrem auf ihre Bubble auf. Wenn sie trifft, kann sie dich sehr schnell töten.",
+  "trading": "Trade wenn möglich immer in der wave damit sie ihre Bubble nicht hitten kann. ",
+  "attention": [
+    "Die range ihr Bubble wird durch wände massiv verlängert",
+    "wenn du von einer bubble gehittet wirst sprich dein letztes gebet"
+  ],
+  "goodItems": [
+    "Banshee's Veil",
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Xerath",
+  "type": "Ranged",
+  "difficulty": "★★★☆☆",
+  "strengths": "Extrem hoher Poke, sehr hohe Range, starke Siege Power",
+  "lanePhase": "Schwierige Lane wenn du seine Skills nicht dodgest. Nutze deine Mobilität und zwing ihn Mana zu verbrauchen.",
+  "trading": "Dodge seine Q und E. Wenn seine E daneben geht kannst du ihn aggressiver punishen.",
+  "attention": ["Er ist ein artillery mage, das beduetet er hat sehr viel range also versuch dich nicht zu krass aus der lane poken zu lassen",
+    "Seine Ultimate ist fast global, falls du low sein solltest sei nicht greedy und geh base"
+  ],
+  "goodItems": [
+    "Banshee's Veil",
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Vel'Koz",
+  "type": "Ranged",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Sehr starker Poke, True Damage, gute Teamfights",
+  "lanePhase": "Du kannst ihn mit deiner Range nerven. Pass aber auf seine E-Q Combo auf.",
+  "trading": "Wenn seine E daneben geht kannst du traden. Vermeide lange Trades wegen seiner Passive.",
+  "attention": [
+    "Seine Passive macht nach mehreren hits extrem viel Truedamage"
+   
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass"
+    
+  ]
+},
+
+{
+  "enemy": "Swain",
+  "type": "Ranged",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Sehr stark in längeren Kämpfen, gute Heilung, starke Teamfights",
+  "lanePhase": "Du kannst ihn früh poken, aber gib ihm keine Möglichkeit mit E-W seine Combo zu starten.",
+  "trading": "Spiele kurze Trades. Lange Trades gewinnt er durch seine Heilung und Ultimate.",
+  "attention": [
+    "Seine E entscheidet oft ob er einen Trade gewinnt",
+    "Seine Ultimate macht ihn extrem schwer zu töten"
+  ],
+  "goodItems": [
+    "Morellonomicon",
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Vladimir",
+  "type": "Ranged",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Sehr starkes Scaling, starke Heilung, gute Teamfights",
+  "lanePhase": "Drücke ihn früh und verhindere free Scaling. Er ist vor mehreren Items deutlich schwächer.",
+  "trading": "Trade wenn seine Q nicht verstärkt ist. Vermeide lange Kämpfe wegen seiner Heilung.",
+  "attention": [
+    "Seine W kann deine Ultimate dodgen",
+    "jede dritte q(das siehst du wenn die bar unter seinen hp voll ist) ist empowered"
+  ],
+  "goodItems": [
+    "Morellonomicon",
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Galio",
+  "type": "Melee",
+  "difficulty": "★★★☆☆",
+  "strengths": "Sehr starker Engage, viel CC, gute Teamfights, Anti-Mage",
+  "lanePhase": "Du kannst ihn mit deiner Range gut poken. Pass aber auf, dass du ihm keinen einfachen Engage mit seiner E gibst.",
+  "trading": "Kurze Trades gewinnen. Wenn sein W oder E auf Cooldown ist kannst du ihn stark bestrafen.",
+  "attention": [
+    "er kann von mitte fast jedem fight mit seiner ult joinen",
+    "respektier seine e range"
+  ],
+  "goodItems": [
+    "Liandry's Torment",
+    "Voidstaff"
+  ]
+},
+{
+  "enemy": "Gragas",
+  "type": "Melee",
+  "difficulty": "★★☆☆☆",
+  "strengths": "Starker Burst, gute Sustain, viel CC",
+  "lanePhase": "Du kannst ihn früh poken, aber pass auf seine Q-Poke und E-Gank Setups auf.",
+  "trading": "seine bodyslam(e) geht nicht durch minions durch also prober immer hinter minions zu bleiben.",
+  "attention": [
+    "seie passive helt ihn wenn er abbilitys used also kann er auch einen schlechten trade zu einem winning trade machen",
+    "Nicht zu nah stehen wegen seiner E"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass",
+    "Liandry's Torment"
+  ]
+},
+
+
+
+
+{
+  "enemy": "Tristana",
+  "type": "Ranged",
+  "difficulty": "★★★☆☆",
+  "strengths": "Sehr starker Early Burst, gute Mobility, starke Sidelane",
+  "lanePhase": "Pass auf ihre Level 2 Stärke auf. Sie kann sehr früh all-in gehen.",
+  "trading": "nimm keine langen trades early. Sie kann eine boombe auf dein kopf sticken die nach einer zeit explodiert und wenn sie dich hittet wird die bombe aufgeladen und immer stärker bis zu 5 mal, lass sie wenn möglich die bombe nie fullstacken.",
+  "attention": [
+    "ihre w(der jump) wird auf kill und vollgestackter bombe geresettet",
+    "trade nicht zu hart into lethal tempo early"
+  ],
+  "goodItems": [
+    "Plated Steelcaps",
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Mel",
+  "type": "Ranged",
+  "difficulty": "★★★☆☆",
+  "strengths": "Sehr starker Poke, hohe Range, starke Skalierung, gute Teamfight Utility",
+  "lanePhase": "Versuche sie früh unter Druck zu setzen, bevor sie zu viele Ressourcen bekommt.",
+  "trading": "Trade nicht blind in ihre Fähigkeiten. Wenn ihre Defensive Fähigkeit auf Cooldown ist kannst du aggressiver spielen.",
+  "attention": [
+    "sie hat eine ability  die prjectiles reflectet aber sie kann oris ball kaum reflect darum countert ori mel ",
+    "je mehr abbiltys dich treffen desto mehr schaden macht ihre ult"
+  ],
+  "goodItems": [
+    "Banshee's Veil",
+    "Zhonya's Hourglass"
+  ]
+},
+{
+  "enemy": "Naafiri",
+  "type": "Melee",
+  "difficulty": "★★★☆☆",
+  "strengths": "Starker Burst, gute Roams, starke Assassin Trades",
+  "lanePhase": "Du kannst sie mit deiner Range kontrollieren.",
+  "trading": "versuche nie 2 qs von ihr zu tanken, die erste marked dich und die zweite proct das mark.",
+  "attention": [
+    "ab lvl 6 hat sie einen starken point and click engage auf dich",
+    "ihre w macht sie untargetable"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass",
+    "Plated Steelcaps"
+  ]
+},
+{
+  "enemy": "Pantheon",
+  "type": "Melee",
+  "difficulty": "★★★☆☆",
+  "strengths": "Sehr starker Early Game Druck, starke All-Ins, gute Roams",
+  "lanePhase": "Halte ihn mit deiner Range auf Abstand. Er ist früh sehr gefährlich, aber fällt später stärker ab.",
+  "trading": "Trade nicht während sein Schild aktiv ist. Wenn seine E auf Cooldown ist kannst du ihn stark punishen.",
+  "attention": [
+    "Er hat einen point and click stun(w) der seine combo free eröffnet also bleib immer aus seiner w range raus",
+    "Seine Ultimate ermöglicht ihm schnelle Roams auf andere Lanes"
+  ],
+  "goodItems": [
+    "Zhonya's Hourglass",
+    "Plated Steelcaps"
+  ]
+}
+]
